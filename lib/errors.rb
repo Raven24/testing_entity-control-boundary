@@ -1,0 +1,2 @@
+
+class KeysMismatchError < StandardError; end
